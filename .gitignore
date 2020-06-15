@@ -1,2 +1,9 @@
+#Files
+.DS_Store
+Tweeter-in-Chief - Backup.ipynb
+Trump Tweets.ipynb
+csv/cabinet-turnover.csv
+csv/djt-110319.csv
+
 # Folders
 models/
