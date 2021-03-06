@@ -4,6 +4,12 @@
 /Tweeter-in-Chief - Backup.ipynb
 /csv/cabinet-turnover.csv
 /csv/djt-110319.csv
+/csv/djt-11032019.csv
+/csv/tweets_11-06-2020.csv
+/csv/djt-11072020.csv
+/csv/djt-06092020.csv
 
 # Folders
 models/
+txt/
+.ipynb_checkpoints
